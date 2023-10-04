@@ -1,5 +1,7 @@
 Segue a ordem das tags:
 
+pdf 1
+
 1 - <header>
 2 - <main>
 3 - <nav>
@@ -7,3 +9,10 @@ Segue a ordem das tags:
 5 - <h1>
 6 - <h2>
 7 - <p>
+
+pdf 2
+
+8 - <a>
+9 - <footer>
+10 - <li>
+11 - <ul>
